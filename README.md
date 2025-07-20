@@ -37,11 +37,12 @@ This project demonstrates core Java concepts such as:
 
 1. Make sure Java is installed on your system.  
    You can check the version using:
-
+   java -version
 
 2. Open a terminal or command prompt, and compile the file:
+javac Main.java
 
-3. Run the program:
-
+4. Run the program:
+java Main
 Finalized How to Run section in README.md
 
